@@ -1,0 +1,5 @@
+numpy
+moviepy
+Pillow
+customtkinter
+packaging
