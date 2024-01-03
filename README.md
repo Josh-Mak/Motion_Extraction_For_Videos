@@ -4,6 +4,8 @@ A simple program that highlights any motion found in a video. Useful for stillsh
 ![ezgif com-video-to-gif-converter](https://github.com/Josh-Mak/Motion_Extraction_For_Videos/assets/152421096/e56f0dea-54ea-49ec-8613-a731f9955c2f)
 
 
+
+
 **Intro**: I made this project as a way to learn more about video editing with code, and as a way to learn how to make a non web-based (eg. Flask) GUI. 
 
 **Technical Overview**:
